@@ -1,16 +1,8 @@
 # boulder_balls
 
-An app to help do whatever the fuck Andreas wants to do
+An app to help track the amount of attempts on a colored route during a bouldering session.
 
-## Getting Started
+# Development
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Unfortunately, everything as of right now is in /lib/main.dart
+I plan on hopefully making this project a bit more clean
