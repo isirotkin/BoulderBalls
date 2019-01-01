@@ -136,6 +136,9 @@ class _MyHomePage extends State<MyHomePage> {
     return Scaffold(
         appBar: AppBar(
           title: Text('Boulder Balls'),
+          actions: <Widget>[
+            attempts.isNotEmpty ? new IconButton(icon: Icon(Icons.save, color: Colors.blueAccent,), onPressed: null) : new IconButton(icon: Icon(Icons.save, color: Colors.white10,), onPressed: null)
+          ],
         ),
 
         body: Row(
